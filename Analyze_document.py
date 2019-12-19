@@ -2,8 +2,8 @@ import boto3
 import io
 from trp import Document
 
-bucketname='extracttext'
-filename='Cropped_type-1/iCard_021873_1_Daba_Ayehush_H.jpg'
+bucketname='Bucket_name'
+filename='folder_name/file_name OR file_name'
 
 s3BucketName = "extracttext"
     # Amazon Textract client
