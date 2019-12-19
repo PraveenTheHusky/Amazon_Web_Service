@@ -1,13 +1,13 @@
 # Amazon_Web_Service
 -How to use different AWS Machine Learning frameworks like: 
 
-   -SageMaker
+   		-SageMaker
 	 
-   -TextExtract
+   		-TextExtract
 	 
-   -Rekognition
+   		-Rekognition
 	 
-   -S3(Common, not a ML framework/module)
+   		-S3(Common, not a ML framework/module)
    
 -To start with your project using AWS, we have to keep some basics concepts in our mind.
  (Tip: For students, you can apply for student account through AWS as well as on Github through which you will get free         credits which can help to complete your initial projects for free)
