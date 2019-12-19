@@ -12,6 +12,7 @@
 -How to start with each ML module: Read AWS docs for each ML frameworks it provides, also they provide examples for each  methods/functions they have, with some tweeks we can write our own functions.
  
 -Working with Sagemaker:
+
 	-Creating an instance.
 	-Creating dedicated role for your instance and giving access to use your S3 bucket.
 	-Attaching policies we are going to use within our projects. 
