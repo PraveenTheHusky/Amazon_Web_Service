@@ -12,9 +12,9 @@
  
 -Working with Sagemaker:
 
-  Creating an instance.
-  Creating dedicated role for your instance and giving access to use your S3 bucket.
-  Attaching policies we are going to use within our projects. 
+  -Creating an instance.
+  -Creating dedicated role for your instance and giving access to use your S3 bucket.
+  -Attaching policies we are going to use within our projects. 
   
   
   
