@@ -1,8 +1,12 @@
 # Amazon_Web_Service
 -How to use different AWS Machine Learning frameworks like: 
+
    -SageMaker
+	 
    -TextExtract
+	 
    -Rekognition
+	 
    -S3(Common, not a ML framework/module)
    
 -To start with your project using AWS, we have to keep some basics concepts in our mind.
@@ -12,9 +16,11 @@
  
 -Working with Sagemaker:
 
-  -Creating an instance.
-  -Creating dedicated role for your instance and giving access to use your S3 bucket.
-  -Attaching policies we are going to use within our projects. 
+   -Creating an instance.
+	 
+   -Creating dedicated role for your instance and giving access to use your S3 bucket.
+	 
+   -Attaching policies we are going to use within our projects. 
   
   
   
